@@ -1,10 +1,4 @@
-Great! Since it's an **e-commerce** project, I'll create a professional and general-purpose `README.md` for you based on standard expectations. Because your repository appears to be a **Java-based project** (it has a `build.xml`, `src/`, `web/`, and `nbproject/` folder), I’ll assume it’s using **Java with JSP/Servlets**, possibly running on Apache Tomcat or NetBeans.
 
-Here’s a first draft of your `README.md`. You can copy this into your repository and modify it as needed:
-
----
-
-```markdown
 # 🛍️ E-Commerce Web Application
 
 This is a Java-based E-Commerce web application developed to simulate an online shopping experience. The project supports product browsing, cart management, and user authentication functionalities.
