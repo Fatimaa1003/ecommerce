@@ -19,8 +19,7 @@ This is a Java-based E-Commerce web application developed to simulate an online 
 - HTML, CSS, JavaScript
 - Apache Tomcat (or compatible servlet container)
 - NetBeans (Project IDE)
-- MySQL or any JDBC-compatible database (assumed)
-- Ant (`build.xml` used for build process)
+- Hibernet for database connectivity
 
 ## 📁 Project Structure
 
@@ -43,9 +42,8 @@ ecommerce/
 - Java JDK 8 or higher
 - Apache Tomcat 8+ or GlassFish
 - NetBeans IDE (recommended) or any compatible IDE
-- MySQL or another SQL-compatible DB
-- Apache Ant (if using `build.xml`)
-
+- Hibernet
+- 
 ### Installation
 
 1. **Clone the repository**:
